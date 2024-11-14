@@ -61,4 +61,4 @@ The ER Diagram can also be found on the link given above or can be viewed [here]
 ![](https://drive.google.com/uc?id=1wPAlZ-QhjwOJMP4L7Bi7kEGbmcLS3Qaa)
 
 ## Authors
-* [zakee94](https://github.com/zakee94/)
+* [Rentino Rentino](https://github.com/Rentino-code/)
