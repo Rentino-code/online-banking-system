@@ -22,9 +22,9 @@
             <div class="flex-item">
                 <h1 id="sub-contact">Corporate Headquarters</h1>
                 <p id="sub-contact">
-                    Corporate HQ<br>Dolphin Bank<br>
-                    1985 Cedar Bridge Ave, Suite 3<br>
-                    Lakewood, NY 08701
+                    Corporate HQ<br>NatWest Group<br>
+                    250 Bishopsgate London<br>
+                    EC2M 4AA, United Kingdom
                 </p>
             </div>
             <div class="flex-item">
