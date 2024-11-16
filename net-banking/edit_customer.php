@@ -138,11 +138,11 @@
             </div>
             <div  class=container>
                 <select name="branch">
-                    <option value="delhi" <?php if ($branch == 'delhi') {?> selected="selected" <?php }?>>Singapore</option>
-                    <option value="newyork" <?php if ($branch == 'newyork') {?> selected="selected" <?php }?>>Stamford</option>
-                    <option value="paris" <?php if ($branch == 'paris') {?> selected="selected" <?php }?>>Paris</option>
-                    <option value="riyadh" <?php if ($branch == 'riyadh') {?> selected="selected" <?php }?>>Milan</option>
-                    <option value="moscow" <?php if ($branch == 'moscow') {?> selected="selected" <?php }?>>Tokyo</option>
+                    <option value="singapore" <?php if ($branch == 'singapore') {?> selected="selected" <?php }?>>singapore</option>
+                    <option value="stamford" <?php if ($branch == 'stamford') {?> selected="selected" <?php }?>>stamford</option>
+                    <option value="paris" <?php if ($branch == 'paris') {?> selected="selected" <?php }?>>paris</option>
+                    <option value="milan" <?php if ($branch == 'milan') {?> selected="selected" <?php }?>>milan</option>
+                    <option value="tokyo" <?php if ($branch == 'tokyo') {?> selected="selected" <?php }?>>tokyo</option>
                 </select>
             </div>
         </div>
