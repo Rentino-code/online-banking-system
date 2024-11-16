@@ -78,7 +78,7 @@
 
         <div class="flex-container">
             <div class=container>
-                <label>Balance (INR) : <label id="info_label"><?php echo number_format($balance) ?></label></label>
+                <label>Balance (USD) : <label id="info_label"><?php echo number_format($balance) ?></label></label>
             </div>
         </div>
 
@@ -137,11 +137,11 @@
                 <label>Bank Branch :
                     <label id="info_label">
                         <?php
-                            if ($branch == "delhi") {echo "Delhi";}
-                            elseif ($branch == "newyork") {echo "New York";}
+                            if ($branch == "delhi") {echo "Singapore";}
+                            elseif ($branch == "newyork") {echo "Stamford";}
                             elseif ($branch == "paris") {echo "Paris";}
-                            elseif ($branch == "riyadh") {echo "Riyadh";}
-                            elseif ($branch == "moscow") {echo "Moscow";}
+                            elseif ($branch == "riyadh") {echo "Milan";}
+                            elseif ($branch == "moscow") {echo "Tokyo";}
                         ?>
                     </label>
                 </label>
