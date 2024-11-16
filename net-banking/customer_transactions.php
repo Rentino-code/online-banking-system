@@ -169,11 +169,11 @@
                 <table id="transactions">
                     <tr>
                         <th>Trans. ID</th>
-                        <th>Date & Time (IST)</th>
+                        <th>Date & Time (GMT)</th>
                         <th>Remarks</th>
-                        <th>Debit (INR)</th>
-                        <th>Credit (INR)</th>
-                        <th>Balance (INR)</th>
+                        <th>Debit (USD)</th>
+                        <th>Credit (USD)</th>
+                        <th>Balance (USD)</th>
                     </tr>
         <?php
             // output data of each row
