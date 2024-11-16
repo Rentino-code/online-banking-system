@@ -33,7 +33,7 @@
                     Toll-Free: 888-968-6822<br>
                     Phone: 732-367-5505<br>
                     Fax: 732-367-2313<br>
-                    Email: office@&#8203dolphinbank.com
+                    Email: office@&#8203natwestgroup.com
                 </p>
             </div>
         </div>
@@ -46,7 +46,7 @@
                 <p id="sub-contact">
                     Toll-Free: 888-966-6992<br>
                     Phone: 732-666-5555<br>
-                    Email: care@&#8203dolphinbank.com
+                    Email: care@&#8203natwestgroup.com
                 </p>
             </div>
             <div class="flex-item">
