@@ -82,7 +82,7 @@
 
         <div class="flex-container">
             <div class=container>
-                <label>Balance (INR) : <label id="info_label"> <?php echo number_format($balance) ?> </label></label>
+                <label>Balance (USD) : <label id="info_label"> <?php echo number_format($balance) ?> </label></label>
             </div>
         </div>
 
@@ -138,11 +138,11 @@
             </div>
             <div  class=container>
                 <select name="branch">
-                    <option value="delhi" <?php if ($branch == 'delhi') {?> selected="selected" <?php }?>>Delhi</option>
-                    <option value="newyork" <?php if ($branch == 'newyork') {?> selected="selected" <?php }?>>New York</option>
+                    <option value="delhi" <?php if ($branch == 'delhi') {?> selected="selected" <?php }?>>Singapore</option>
+                    <option value="newyork" <?php if ($branch == 'newyork') {?> selected="selected" <?php }?>>Stamford</option>
                     <option value="paris" <?php if ($branch == 'paris') {?> selected="selected" <?php }?>>Paris</option>
-                    <option value="riyadh" <?php if ($branch == 'riyadh') {?> selected="selected" <?php }?>>Riyadh</option>
-                    <option value="moscow" <?php if ($branch == 'moscow') {?> selected="selected" <?php }?>>Moscow</option>
+                    <option value="riyadh" <?php if ($branch == 'riyadh') {?> selected="selected" <?php }?>>Milan</option>
+                    <option value="moscow" <?php if ($branch == 'moscow') {?> selected="selected" <?php }?>>Tokyo</option>
                 </select>
             </div>
         </div>
