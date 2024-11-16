@@ -1,4 +1,4 @@
-/* logo_style.css */
+/* natwest_logo_style.css */
 
 .flex-container {
     display: flex;
@@ -8,7 +8,7 @@
     background-color: #f9f9f9; /* Optional: Adds a light background */
 }
 
-.logo-container {
+.natwest-logo-container {
     max-width: 200px; /* Adjust logo size */
     height: auto;
     display: flex;
@@ -17,14 +17,14 @@
     justify-content: center;
 }
 
-.logo-container img {
+.natwest-logo-container img {
     width: 100%; /* Ensures the image fits within its container */
     height: auto;
     border-radius: 10px; /* Optional: Rounded corners */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Shadow effect */
 }
 
-.logo-container:hover img {
+.natwest-logo-container:hover img {
     transform: scale(1.05); /* Subtle zoom effect on hover */
     transition: transform 0.3s ease-in-out;
 }
