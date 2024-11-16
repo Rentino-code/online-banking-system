@@ -52,4 +52,4 @@
 
 <?php include "easter_egg.php"; ?>
 
-<?php include 'logo.php'; ?>
+<?php include 'natwest_logo.php'; ?>
