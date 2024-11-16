@@ -88,11 +88,11 @@
             </div>
             <div  class=container>
                 <select name="branch">
-                    <option value="delhi">Singapore</option>
-                    <option value="newyork">Stamford</option>
-                    <option value="paris">Paris</option>
-                    <option value="riyadh">Milan</option>
-                    <option value="moscow">Tokyo</option>
+                    <option value="delhi">singapore</option>
+                    <option value="newyork">stamford</option>
+                    <option value="paris">paris</option>
+                    <option value="riyadh">milan</option>
+                    <option value="moscow">tokyo</option>
                 </select>
             </div>
         </div>
