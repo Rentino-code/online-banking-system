@@ -51,3 +51,5 @@
 </html>
 
 <?php include "easter_egg.php"; ?>
+
+<?php include 'logo.php'; ?>
