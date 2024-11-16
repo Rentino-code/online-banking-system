@@ -137,11 +137,11 @@
                 <label>Bank Branch :
                     <label id="info_label">
                         <?php
-                            if ($branch == "delhi") {echo "Singapore";}
-                            elseif ($branch == "newyork") {echo "Stamford";}
-                            elseif ($branch == "paris") {echo "Paris";}
-                            elseif ($branch == "riyadh") {echo "Milan";}
-                            elseif ($branch == "moscow") {echo "Tokyo";}
+                            if ($branch == "singapore") {echo "singapore";}
+                            elseif ($branch == "stamford") {echo "stamford";}
+                            elseif ($branch == "paris") {echo "paris";}
+                            elseif ($branch == "milan") {echo "milan";}
+                            elseif ($branch == "tokyo") {echo "tokyo";}
                         ?>
                     </label>
                 </label>
